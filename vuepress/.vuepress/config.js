@@ -6,6 +6,7 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" },
       { text: "指南", link: "/guides/" },
+      { text: "我的导航", link: "/links"},
     ],
   },
 };
